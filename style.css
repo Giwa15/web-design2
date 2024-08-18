@@ -1,0 +1,70 @@
+.introduction , .contact {
+    background-color: #050C9C;
+    color: white;
+    
+}
+
+.img-project ,  .img-hobbies , .img-resume {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+.projects p {
+    text-align: justify;
+}
+
+.btn-dark-blue {
+    background-color:  white  ;  
+    border : 5px solid #050C9C;
+
+}
+
+figcaption {
+    font-weight: bold;
+    margin-top: 10px;
+    color : #CC5500 ;
+}
+
+.contact li {
+    color : #CC5500;
+}
+
+.orange-text {
+    font-weight: bolder;
+    color : #CC5500;
+}
+
+.projects h2 {
+    color : #050C9C;
+    font-weight: bolder;
+}
+
+.btn-burnt-orange {
+    background-color:  white  ;  
+    border : 5px solid #CC5500;
+
+}
+
+/*
+.resume h2 {
+    font-weight: bolder;
+    color : #CC5500;
+    font-size: xx-large;
+    margin-bottom: 0%;
+}
+
+.resume li {
+    font-weight: bold;
+    color : #050C9C;
+    border : 5px solid #CC5500;
+    list-style: none;
+    padding: 5px;
+
+}
+
+*/
